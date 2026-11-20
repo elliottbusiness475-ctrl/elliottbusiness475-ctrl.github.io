@@ -494,7 +494,7 @@ h1 span{display:block}
   if (app) {
     doc.classList.add("iab-actif");
     var sortie = document.querySelector("[data-sortie]");
-    var ici = location.origin + location.pathname + location.search;
+    var ici = location.origin + location.pathname; // sans ?fbclid=… ajouté par Facebook
     document.querySelector("[data-app]").textContent = (app === "Instagram" ? "d’" : "de ") + app;
 
     if (ios) {
