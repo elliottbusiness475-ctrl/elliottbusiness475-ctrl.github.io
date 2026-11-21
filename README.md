@@ -4,7 +4,11 @@ Page intermédiaire à mettre dans la bio Facebook. Elle s'ouvre comme une page 
 une courte intro animée (environ 3 secondes) met en scène la couverture et le monogramme EC,
 puis le bouton apparaît pour rejoindre le serveur Discord.
 
-En ligne : https://elliottbusiness475-ctrl.github.io/
+En ligne : https://elliott-capital-management.pages.dev/
+
+Hébergement gratuit sur Cloudflare Pages, relié à ce dépôt : chaque modification validée ici
+est publiée automatiquement en une minute environ. L'ancienne adresse github.io redirige
+vers la nouvelle.
 
 ## Changer le lien d'invitation Discord
 
